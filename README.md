@@ -2,6 +2,9 @@
 
 A simple Telugu Spell Checker using Levenshtein distance and prefix-based grouping.
 
+## Repository Link  
+[View on GitHub](https://github.com/jah-navii/SpellChecker-Telugu)
+
 ## Setup
 
 1. Clone the repo and open the folder.  
